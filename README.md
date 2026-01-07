@@ -14,4 +14,3 @@ https://drive.google.com/file/d/1LteLS9vgooFR2QWgVcakjkLHnbYFndWV/view?usp=drive
 
 This project was created to explore UI/UX thinking and product flow design for lifestyle and fashion-based applications.
 
-I’d be happy to receive feedback and suggestions!
